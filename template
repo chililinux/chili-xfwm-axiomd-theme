@@ -22,6 +22,6 @@ do_fetch() {
 }
 
 do_install() {
-	vcopy etc /
+#	vcopy etc /
 	vcopy usr /
 }
